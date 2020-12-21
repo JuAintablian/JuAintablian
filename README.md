@@ -11,7 +11,7 @@
 
 ### Talking about Personal Stuffs
 
-- 👊 I did the XP22 as Hacker on Gama Academy;
+- 👊 I have taken the XP22 as Hacker on Gama Academy;
 
 - 👩🏻‍💻 I’m currently working on something cool :wink:;
 
