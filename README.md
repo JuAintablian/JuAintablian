@@ -15,7 +15,11 @@
 
 - 👩🏻‍💻 I’m currently working on something cool :wink:;
 
-- 🌱 I’m currently learning Angular and NodeJs; 
+- 🚀 I’m currently learning Angular and NodeJs; 
+
+- ⭐ I'm volunteer teacher in a study group called ngDevs, with a focus on Angular.
+
+- 🌱  I'm volunteer at 9sot as Head Of Technology.
 
 - 💬 Ask me about anything, I am happy to help;
 
