@@ -4,7 +4,7 @@
 
 ### Welcome to my page!
 <p>
-  I'm Juliana, Front-end developer at Vivere Brasil.
+  I'm Juliana, Front-end developer at TOTVS.
 </p>
 
 <br/>
